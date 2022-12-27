@@ -1,6 +1,14 @@
 # Hardware hacking: Xtreamer SideWinder2 (Network Media Player)
 [EN] Hardware hacking: Xtreamer SideWinder2 (Network Media Player)
 
+## Content
+
+  * [TCP enumeration scan](#tcp-enumeration-scan)
+  * [PHP reverse shell](#php-reverse-shell)
+  * [System enumerationl](#system-enumeration)
+  * [Security considerations](#security-considerations)
+  * [Contact](#contact)
+
 ## TCP enumeration scan
 
 Performed with `nmap -v -sC -sV -p- -oA nmap/full-tcp-scan 10.0.0.33` command:
