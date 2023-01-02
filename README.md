@@ -150,7 +150,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ## PHP reverse shell
 
-I found possibility of PHP reverse shell via web control server with unsecure file manager feature. This vulneability affect version 3.0.6 from 2010. 
+I found possibility of PHP reverse shell via web control server with unsecure file manager feature. This vulnerability affect version 3.0.6 from 2010. 
 
 Web server is powered by very old version of PHP:
 
