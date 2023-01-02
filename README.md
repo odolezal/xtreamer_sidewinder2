@@ -5,7 +5,7 @@
 
   * [TCP enumeration scan](#tcp-enumeration-scan)
   * [PHP reverse shell](#php-reverse-shell)
-  * [System enumerationl](#system-enumeration)
+  * [System enumeration](#system-enumeration)
   * [Security considerations](#security-considerations)
   * [Contact](#contact)
 
