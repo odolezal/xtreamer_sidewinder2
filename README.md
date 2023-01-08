@@ -173,8 +173,8 @@ Web control server has `X-Powered-By: PHP/5.3.2` header in response. So, it was 
 
 **Getting root shell:**
 
-1. Get PHP reverse shell from there: <https://pentestmonkey.net/tools/web-shells/php-reverse-shell>
-2. Update `$ip` variable in `php-reverse-shell.php` file with IP address of Xtreamer device.
+1. Download PHP reverse shell file from there: <https://pentestmonkey.net/tools/web-shells/php-reverse-shell>
+2. Update `$ip` variable in `php-reverse-shell.php` file with IP address of your computer.
 3. File with reverse shell must be uploaded to location accessible for Xtreamer. It can be USB flash disk (tested) or remote share via Samba.
 4. Start listener `nc -lvnp 1234`.
 
